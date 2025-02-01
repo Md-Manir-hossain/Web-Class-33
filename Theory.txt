@@ -1,0 +1,21 @@
+Structure of conditional Statements-
+যদি আমাদের শর্ত 3 টি থাকে তাহলে আমাদের প্রথম শর্তে if থাকবে,
+এবং পরের দুইটিতে else if দিয়ে শুরু করব। এবং শর্ত না থাকলে আমরা শেষ করব-
+শুধু else দিয়ে।
+
+if (condition) {
+    //Statement....
+}
+
+else if (condition) {
+    //Statement....
+}
+
+else if (condition) {
+    //Statement....
+}
+
+
+else {
+    //Statement....
+}
